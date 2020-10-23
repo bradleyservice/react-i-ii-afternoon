@@ -1,0 +1,36 @@
+.people-list {
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 80px;
+    font-size: 26px;
+    width: 900px;
+    font-weight: 500;
+}
+
+.names {
+    font-size: 32px;
+    font-weight: 800;
+    text-decoration: underline cornflowerblue;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.location {
+    margin-bottom: 5px;
+}
+
+.counter{
+    font-size: 30px;
+    font-weight: 700;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.label-1{
+    margin-bottom: 30px;
+}
+
+.bold{
+    font-weight: 900;
+}
